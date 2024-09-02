@@ -1,11 +1,9 @@
 .services-grid {
-    margin: 0 auto;
+    margin: 15px auto;
     max-width: 1200px;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 60px 30px;
-    margin-top: 40px;
-    margin: 15px;
   }
 
 .service-card {
