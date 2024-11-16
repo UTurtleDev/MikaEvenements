@@ -272,7 +272,7 @@ nav ul li:nth-child(4) {
 
 .card-container__img {
     /* flex: 1; */
-    /* display: block; */
+    display: flex;
     /* border-radius: 10px; */
     height: 200px;
     padding: 10px;
@@ -282,6 +282,7 @@ nav ul li:nth-child(4) {
     height: 90%;
     object-fit: cover;
     border-radius: 4px;
+    align-self: center;
 }
 
 
