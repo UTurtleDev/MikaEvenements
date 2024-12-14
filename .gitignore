@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+
+docker-compose.yml
+nginx.conf
+mariagecarevenement.conf
